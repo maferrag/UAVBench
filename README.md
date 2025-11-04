@@ -85,4 +85,33 @@ UAVBench is designed to answer key questions in autonomous aerial reasoning:
 
 ---
 
-## Repository Structure
+<h2 align="center">📖 Citation</h2>
+
+If you use <b>AgentDrive</b> or any of its benchmark datasets in your research, please cite it as:
+
+```bibtex
+@misc{Ferrag2025UAVBench,
+  title = {UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios},
+  author = {Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah},
+  howpublished = {GitHub repository},
+  year = {2025},
+  note = {Available at: \url{https://github.com/maferrag/UAVBench}},
+  url = {https://github.com/maferrag/UAVBench}
+}
+```
+
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+  <b>Dr. Mohamed Amine Ferrag</b><br>
+
+  <a href="mailto:mohamed.amine.ferrag@gmail.com">mohamed.amine.ferrag@gmail.com</a><br><br>
+
+  🌐 <a href="https://scholar.google.fr/citations?user=IkPeqxMAAAAJ&hl=fr&oi=ao">Google Scholar</a> |
+  🔗 <a href="https://www.scopus.com/authid/detail.uri?authorId=56115001200">Scopus</a> |
+  🧭 <a href="https://www.webofscience.com/wos/author/rid/M-2909-2016">Web of Science</a> |
+  💼 <a href="https://www.linkedin.com/in/mohamed-amine-ferrag-phd-36390243/">LinkedIn</a>
+</p>
+
+
