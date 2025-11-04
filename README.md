@@ -85,6 +85,7 @@ Each MCQ is machine-readable, logically consistent, and aligned with real-world 
 
 ![Description of image](Images/Fig_5.jpg)
 
+
 UAVBench evaluates **32 state-of-the-art LLMs**.
 
 Results reveal strong perception and policy reasoning but ongoing challenges in **ethics-aware** and **resource-constrained** decision-making.
