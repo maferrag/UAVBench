@@ -11,6 +11,14 @@ UAVBench introduces:
 Together, these datasets establish a **reproducible, interpretable, and physics-grounded foundation** for benchmarking cognitive and ethical reasoning in UAV autonomy.
 
 ---
+## Research Questions
+UAVBench is designed to answer key questions in autonomous aerial reasoning:
+- How can LLM-generated UAV scenarios remain physically consistent and safety-aware?  
+- What methods ensure interpretable and risk-labeled UAV missions?  
+- How can reasoning tasks evaluate ethical and cognitive dimensions of UAV autonomy?  
+- How do model architectures influence grounded reasoning and decision reliability?
+
+---
 
 ## Motivation
 Modern UAVs increasingly depend on **LLMs** for autonomous decision-making, yet the field lacks **standardized and physically consistent benchmarks** to measure reasoning quality.  
@@ -24,6 +32,9 @@ Most existing UAV datasets are limited by simplified environments, low-fidelity 
 ---
 
 ## Key Features
+
+![Description of image](Images/Fig_1.jpg)
+
 
 ### 🧩 1. Unified UAV Scenario Schema
 A mathematically defined schema encodes each UAV mission as a structured tuple, integrating:
@@ -53,6 +64,9 @@ Scenarios are labeled with **quantitative risk levels** and categorical tags suc
 `Weather`, `Navigation`, `Energy`, and `Collision-Avoidance`.
 
 ### 🧠 4. UAVBench_MCQ: Structured Reasoning Benchmark
+
+![Description of image](Images/Fig_4.jpg)
+
 The UAVBench_MCQ extension transforms validated scenarios into **50,000 reasoning tasks**, covering ten UAV reasoning domains:
 1. Aerodynamics & Physics  
 2. Navigation & Path Planning  
@@ -68,20 +82,12 @@ The UAVBench_MCQ extension transforms validated scenarios into **50,000 reasonin
 Each MCQ is machine-readable, logically consistent, and aligned with real-world UAV operations.
 
 ### 🤖 5. Large-Scale LLM Evaluation
-UAVBench evaluates **32 state-of-the-art LLMs**, including:
-- GPT-5, ChatGPT-4o, Gemini-2.5-Flash  
-- DeepSeek-V3, Qwen3-235B, ERNIE-4.5-300B  
+
+![Description of image](Images/Fig_5.jpg)
+
+UAVBench evaluates **32 state-of-the-art LLMs**.
 
 Results reveal strong perception and policy reasoning but ongoing challenges in **ethics-aware** and **resource-constrained** decision-making.
-
----
-
-## Research Questions
-UAVBench is designed to answer key questions in autonomous aerial reasoning:
-- How can LLM-generated UAV scenarios remain physically consistent and safety-aware?  
-- What methods ensure interpretable and risk-labeled UAV missions?  
-- How can reasoning tasks evaluate ethical and cognitive dimensions of UAV autonomy?  
-- How do model architectures influence grounded reasoning and decision reliability?
 
 ---
 
