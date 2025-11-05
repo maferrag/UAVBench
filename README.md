@@ -489,7 +489,7 @@ There are currently two types of datasets available: **UAVBench** and **UAVBench
 </details>
 
 
-<a href="https://github.com/maferrag/UAVBench/tree/main/data/UAVBench_dataset">
+<a href="https://github.com/maferrag/UAVBench/blob/main/data/UAVBench_scenarios.zip">
 📂 <b>Download UAVBench Dataset (ZIP)</b>
 </a>
 
@@ -527,8 +527,12 @@ There are currently two types of datasets available: **UAVBench** and **UAVBench
 </details>
 
 
-<a href="https://github.com/maferrag/UAVBench/tree/main/data/UAVBench_MCQ_dataset">
+<a href="https://github.com/maferrag/UAVBench/blob/main/data/UAVBench_MCQ_dataset.zip">
 📂 <b>Download UAVBench_MCQ Dataset (ZIP)</b>
+</a>
+
+<a href="https://github.com/maferrag/UAVBench/blob/main/data/UAVBench_MCQ_Dataset_2k_(Validated).zip">
+📂 <b>Download UAVBench_MCQ Dataset 2k Validated (ZIP)</b>
 </a>
 
 <br>
