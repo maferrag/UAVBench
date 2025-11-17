@@ -1,5 +1,7 @@
 # UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios
 
+**Research paper** : https://arxiv.org/pdf/2511.11252
+
 ## Overview
 **UAVBench** is an open, physically grounded benchmark dataset for evaluating **autonomous aerial systems** enhanced by **Large Language Models (LLMs)**.  
 It provides a unified framework for generating, validating, and reasoning over UAV flight scenarios, enabling systematic assessment of **agentic AI reasoning** in mission planning, perception, and decision-making.
@@ -553,17 +555,16 @@ Results reveal strong perception and policy reasoning but ongoing challenges in 
 
 <h2 align="center">📖 Citation</h2>
 
-If you use <b>AgentDrive</b> or any of its benchmark datasets in your research, please cite it as:
+If you use <b>UAVBench</b> or <b>UAVBench_MCQ</b> in your research or applications, please cite our work:
 
 ```bibtex
-@misc{Ferrag2025UAVBench,
-  title = {UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios},
-  author = {Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah},
-  howpublished = {GitHub repository},
-  year = {2025},
-  note = {Available at: \url{https://github.com/maferrag/UAVBench}},
-  url = {https://github.com/maferrag/UAVBench}
+@article{ferrag2025uavbench,
+  title={UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios},
+  author={Ferrag, Mohamed Amine and Lakas, Abderrahmane and Debbah, Merouane},
+  journal={arXiv preprint arXiv:2511.11252},
+  year={2025}
 }
+
 ```
 
 
