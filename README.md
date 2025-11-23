@@ -572,8 +572,14 @@ If you use <b>UAVBench</b> or <b>UAVBench_MCQ</b> in your research or applicatio
 
 <p align="center">
   <b>Dr. Mohamed Amine Ferrag</b><br>
+  Associate Professor, Department of Computer and Network Engineering<br>
+  College of Information Technology, United Arab Emirates University (UAEU)<br>
+  Al Ain, United Arab Emirates<br><br>
 
-  <a href="mailto:mohamed.amine.ferrag@gmail.com">mohamed.amine.ferrag@gmail.com</a><br><br>
+  <a href="mailto:mohamed.amine.ferrag@gmail.com">mohamed.amine.ferrag@gmail.com</a><br>
+  <a href="mailto:mohamed.ferrag@uaeu.ac.ae">mohamed.ferrag@uaeu.ac.ae</a><br><br>
+</p>
+
 
   🌐 <a href="https://scholar.google.fr/citations?user=IkPeqxMAAAAJ&hl=fr&oi=ao">Google Scholar</a> |
   🔗 <a href="https://www.scopus.com/authid/detail.uri?authorId=56115001200">Scopus</a> |
