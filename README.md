@@ -2,6 +2,9 @@
 
 **Research paper** : https://arxiv.org/pdf/2511.11252
 
+👉 If you are looking to evaluate your LLM model using our benchmark, please feel free to contact us at 📩 mohamed.ferrag@uaeu.ac.ae / mohamed.amine.ferrag@gmail.com
+
+
 ## Overview
 **UAVBench** is an open, physically grounded benchmark dataset for evaluating **autonomous aerial systems** enhanced by **Large Language Models (LLMs)**.  
 It provides a unified framework for generating, validating, and reasoning over UAV flight scenarios, enabling systematic assessment of **agentic AI reasoning** in mission planning, perception, and decision-making.
