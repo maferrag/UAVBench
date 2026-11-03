@@ -565,11 +565,14 @@ Results reveal strong perception and policy reasoning but ongoing challenges in 
 If you use <b>UAVBench</b> or <b>UAVBench_MCQ</b> in your research or applications, please cite our work:
 
 ```bibtex
-@article{ferrag2025uavbench,
+@article{ferrag2026uavbench,
   title={UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios},
   author={Ferrag, Mohamed Amine and Lakas, Abderrahmane and Debbah, Merouane},
-  journal={arXiv preprint arXiv:2511.11252},
-  year={2025}
+  journal={IEEE Open Journal of Vehicular Technology},
+  volume={7},
+  pages={2542--2558},
+  year={2026},
+  doi={10.1109/OJVT.2026.3721777}
 }
 
 ```
