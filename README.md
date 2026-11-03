@@ -1,6 +1,10 @@
 # UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios
 
-**Research paper** : https://arxiv.org/pdf/2511.11252
+## Research Paper
+
+The final version of UAVBench has been published in the *IEEE Open Journal of Vehicular Technology*:
+
+> M. A. Ferrag, A. Lakas, and M. Debbah, “UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios,” *IEEE Open Journal of Vehicular Technology*, vol. 7, pp. 2542–2558, 2026. doi: [10.1109/OJVT.2026.3721777](https://doi.org/10.1109/OJVT.2026.3721777).
 
 👉 If you are looking to evaluate your LLM model using our benchmark, please feel free to contact us at 📩 mohamed.ferrag@uaeu.ac.ae / mohamed.amine.ferrag@gmail.com
 
